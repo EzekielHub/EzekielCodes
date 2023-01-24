@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EzekielCodes](https://github.com/EzekielCodes)
 
-- 📫 How to reach me **ezekielakindele@outlook.cim**
+- 📫 How to reach me **ezekielakindele@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
